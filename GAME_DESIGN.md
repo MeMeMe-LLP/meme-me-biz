@@ -7,15 +7,18 @@ The power dynamic of modern streaming is inverted: **The Reality Streamer plays 
 ## 2. Core Gameplay Loop
 The game is played in two phases, mimicking a surreal "Virtual Television" or server room.
 
-### The Streamer's Perspective (The Troll)
-The Reality Streamer sits in front of a massive wall of virtual TVs. Each TV represents a channel broadcasted by a real viewer in their Twitch chat.
-- **The Arsenal:** The Reality Streamer has a dashboard of "Meme Bombs." They can construct devastating combinations of memes to ruin a Virtual Streamer's broadcast.
-- **The Execution:** When the Reality Streamer targets a viewer's channel and fires a Meme Bomb, the damage is transmitted directly through the "virtual cable" to the in-game streamer's screen.
+### Phase 1: The Selection (The Target)
+The Reality Streamer sits in front of a massive wall of virtual TVs. Each TV represents a mini-channel broadcasted by a real viewer in their Twitch chat (e.g., 1,000 viewers = 1,000 mini-channels).
+- The Reality Streamer picks ONE channel to "watch" and target. 
 
-### The Viewers' Perspective (The Victims)
-Every viewer in chat controls a small virtual channel. They are competing to survive the Reality Streamer's wrath and outlast the other 1,000+ viewers.
-- **Defense:** Viewers must use Twitch Chat commands (e.g., `!shield`, `!deflect`) or spend Twitch Bits to build defenses against the incoming memes.
-- **Betrayal:** Viewers can spend Bits to bride the Reality Streamer to attack someone else, creating a highly competitive "Hunger Games" scenario.
+### Phase 2: The Group Chat Simulator (The Arena)
+Once a victim is selected, the unpicked 999 viewers are dumped into a chaotic "Group Chat Simulator" alongside the Reality Streamer. They are all now "viewers" watching the 1 targeted victim.
+- **The Arsenal:** The Reality Streamer has a dashboard of "Meme Bombs," but deploying them isn't easy. The Reality Streamer must get their troll messages "picked up" by the victim while lost in a sea of spam from the 999 other viewers. 
+- **The Execution (Chat as a Game):** The group chat itself is a minigame (similar to the viral appeal of "The Password Game"). The Reality Streamer must time their messages, use special abilities, or construct combinations to break through the noise. When successful, the meme damage is transmitted directly through the "virtual cable" to the victim's screen.
+
+### The Victim's Perspective
+The 1 targeted viewer must survive the onslaught. 
+- **Defense:** The victim uses commands or Bits to build defenses against the incoming memes, while trying to run their own "fake stream" successfully under pressure.
 
 ## 3. The Aesthetic: Looney Tunes Slapstick meets Cyberpunk
 The sabotage is **not** just boring digital hacking or screen glitches. It is physical, cartoonish violence translated through a digital medium.
@@ -24,6 +27,6 @@ The sabotage is **not** just boring digital hacking or screen glitches. It is ph
 - **The Conduit:** The violence is "transmitted" via a physical, sparking cable that runs from the Reality Streamer's terminal directly into the virtual screens of the in-game streamers. The memes cause actual, animated cartoon damage.
 
 ## 4. Monetization & Virality
-- **Streamer Incentive:** Streamers stream the game because it fulfills the ultimate "revenge fantasy" of bullying their own chat.
-- **Viewer Incentive:** Viewers purchase the game on Steam to host their own lobbies, or spend Bits in the Twitch Extension to buy "Premium Armor" or "Premium Bribes" to survive the streamer's attacks.
+- **Streamer Incentive:** Streamers stream the game because it fulfills the ultimate "revenge fantasy" of bullying their own chat, and because it provides long hours of highly interactive streaming content.
+- **Viewer Incentive:** The main lobby is created by the real streamer. Viewers purchase the game on Steam so they can join these lobbies (or host their own later), and spend Bits in the Twitch Extension to buy "Premium Armor" or "Premium Bribes" to survive.
 - **Marketing:** The sheer chaos of a streamer targeting a specific, named viewer and watching a cartoon anvil crush their virtual broadcast creates highly shareable, viral TikTok/Shorts clips.
