@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <defs>
+    <linearGradient id="icon_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0612"/>
+      <stop offset="100%" stop-color="#2a084e"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="54" fill="url(#icon_bg)" stroke="#22d3ee" stroke-width="4"/>
+  <text x="128" y="165" font-size="140" text-anchor="middle" font-family="sans-serif">🐕</text>
+  <rect x="58" y="195" width="140" height="28" rx="14" fill="#f43f5e"/>
+  <text x="128" y="214" font-family="monospace" font-weight="900" font-size="12" fill="#ffffff" text-anchor="middle">MEME@ME</text>
+</svg>
